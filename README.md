@@ -25,7 +25,6 @@
 
 - 📫 How to reach me **shahnayas01@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DllvSkrxhuxuyxhh3LfwRkM5ZbWd9Pf7/view?usp=sharing](https://drive.google.com/file/d/1DllvSkrxhuxuyxhh3LfwRkM5ZbWd9Pf7/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
