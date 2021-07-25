@@ -32,10 +32,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sahnayas_soccho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahnayas_soccho" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kh md shahnayas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kh md shahnayas" height="30" width="40" /></a>
-<a href="https://fb.com/shahnayas soccho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shahnayas soccho" height="30" width="40" /></a>
-<a href="https://instagram.com/sahnayas soccho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sahnayas soccho" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shahnayas soccho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shahnayas soccho" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Kh Md Shahnayas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kh Md Shahnayas" height="30" width="40" /></a>
+<a href="https://fb.com/Shahnayas Soccho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Shahnayas Soccho" height="30" width="40" /></a>
+<a href="https://instagram.com/Shahnayas_soccho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Shahnayas_soccho" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCi3j7jrf_eBo4MsGnOig8pA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Kh Md Shahnayas" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
